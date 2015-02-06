@@ -1,0 +1,15 @@
+{
+    "colours": {
+        "default": "GREEN",
+        "error": "BLUE",
+        "debug": "YELLOW"
+    },
+    "files": {
+        "default": {
+            "/var/log/nginx/access.log": 1
+        },
+        "error": {
+            "/var/log/nginx/error.log": 1
+        }
+    }
+}
